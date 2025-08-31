@@ -5,7 +5,7 @@ venv
 Airflow
 
 Execution steps
-git clone https://github.com/your-repo/datapipeline.git
+git clone https://github.com/NairKrishnaB/Sumitomo.git
 cd datapipeline
 python3 -m venv venv
 source venv/bin/activate (for windows machine - venv\Scripts\activate)
@@ -41,4 +41,11 @@ airflow dags list
 airflow dags trigger datapipeline_dag
 
 
+Improved with more time
 
+1) Add robust error handling for API failures and Implement retries
+2) Write tests cases for each ETL module
+3) I can set up this as Github action to perform CICD from Dev --> QA --> Production with approval
+4) Move API URLs, database paths, thresholds, and currency codes to a .env or to scheduling tools environment variable
+5) Implement structured logging for ETL steps and monitoring tools and alerts such as AWS cloudwatch, SNS, Datadog etc 
+6) Add visualization layer on top of transformed data
