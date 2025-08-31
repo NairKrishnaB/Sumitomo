@@ -1,0 +1,13 @@
+pandas
+requests
+
+# Database
+sqlalchemy
+sqlite-utils
+
+# Airflow (for orchestration)
+apache-airflow
+
+# Optional: if you want to use parquet format
+pyarrow
+fastparquet

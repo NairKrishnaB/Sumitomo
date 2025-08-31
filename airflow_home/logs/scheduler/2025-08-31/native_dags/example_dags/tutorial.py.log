@@ -1,0 +1,232 @@
+[2025-08-31T18:30:08.466+0000] {processor.py:186} INFO - Started process (PID=5086) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:08.467+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:30:08.468+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.468+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:08.480+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:08.672+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.671+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-08-31T18:30:08.708+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.707+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial
+[2025-08-31T18:30:08.723+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.722+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-08-31T18:30:08.773+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.772+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2025-08-31T18:30:08.816+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.815+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial
+[2025-08-31T18:30:08.835+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.834+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial
+[2025-08-31T18:30:08.872+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.870+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2025-08-31T18:30:08.873+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.872+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:30:08.887+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.887+0000] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2025-08-31T18:30:08.893+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:08.893+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:30:08.912+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.452 seconds
+[2025-08-31T18:30:48.298+0000] {processor.py:186} INFO - Started process (PID=5214) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:48.299+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:30:48.301+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:48.301+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:48.309+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:30:48.331+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:48.330+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:30:48.350+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:30:48.350+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:30:48.371+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2025-08-31T18:31:51.514+0000] {processor.py:186} INFO - Started process (PID=5286) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:31:51.517+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:31:51.520+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:31:51.520+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:31:51.528+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:31:51.543+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:31:51.542+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:31:51.560+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:31:51.560+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:31:51.580+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2025-08-31T18:32:46.693+0000] {processor.py:186} INFO - Started process (PID=5343) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:32:46.694+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:32:46.697+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:32:46.697+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:32:46.706+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:32:46.725+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:32:46.724+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:32:46.745+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:32:46.745+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:32:46.772+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2025-08-31T18:33:36.577+0000] {processor.py:186} INFO - Started process (PID=5393) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:33:36.578+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:33:36.581+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:33:36.581+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:33:36.589+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:33:36.693+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:33:36.693+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:33:36.707+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:33:36.707+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:33:36.725+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.153 seconds
+[2025-08-31T18:34:32.091+0000] {processor.py:186} INFO - Started process (PID=5449) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:34:32.092+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:34:32.096+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:34:32.095+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:34:32.105+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:34:32.124+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:34:32.124+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:34:32.145+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:34:32.145+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:34:32.171+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2025-08-31T18:35:22.717+0000] {processor.py:186} INFO - Started process (PID=5501) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:35:22.719+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:35:22.721+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:35:22.721+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:35:22.729+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:35:22.744+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:35:22.744+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:35:22.763+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:35:22.762+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:35:22.787+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2025-08-31T18:36:13.375+0000] {processor.py:186} INFO - Started process (PID=5579) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:36:13.377+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:36:13.380+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:36:13.380+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:36:13.390+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:36:13.409+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:36:13.409+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:36:13.430+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:36:13.430+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:36:13.454+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2025-08-31T18:37:05.383+0000] {processor.py:186} INFO - Started process (PID=5631) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:37:05.384+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:37:05.388+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:37:05.387+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:37:05.397+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:37:05.416+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:37:05.416+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:37:05.438+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:37:05.437+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:37:05.462+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2025-08-31T18:40:02.233+0000] {processor.py:186} INFO - Started process (PID=6029) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:02.234+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:40:02.237+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:02.236+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:02.248+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:02.272+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:02.272+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:40:02.296+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:02.296+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:40:02.318+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.093 seconds
+[2025-08-31T18:40:57.540+0000] {processor.py:186} INFO - Started process (PID=6317) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:57.541+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:40:57.544+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:57.543+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:57.551+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:40:57.566+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:57.566+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:40:57.584+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:40:57.584+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:40:57.604+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2025-08-31T18:41:49.253+0000] {processor.py:186} INFO - Started process (PID=6481) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:41:49.254+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:41:49.257+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:41:49.256+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:41:49.265+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:41:49.280+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:41:49.280+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:41:49.297+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:41:49.297+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:41:49.319+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2025-08-31T18:42:42.939+0000] {processor.py:186} INFO - Started process (PID=6666) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:42:42.940+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:42:42.943+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:42:42.943+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:42:42.953+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:42:43.073+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:42:43.072+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:42:43.088+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:42:43.087+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:42:43.107+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.175 seconds
+[2025-08-31T18:43:42.469+0000] {processor.py:186} INFO - Started process (PID=6913) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:43:42.470+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:43:42.474+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:43:42.474+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:43:42.486+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:43:42.507+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:43:42.506+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:43:42.533+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:43:42.533+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:43:42.558+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-08-31T18:44:33.192+0000] {processor.py:186} INFO - Started process (PID=7125) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:44:33.193+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:44:33.195+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:44:33.195+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:44:33.203+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:44:33.219+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:44:33.219+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:44:33.241+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:44:33.241+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:44:33.270+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.084 seconds
+[2025-08-31T18:45:23.735+0000] {processor.py:186} INFO - Started process (PID=7376) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:45:23.737+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:45:23.739+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:45:23.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:45:23.749+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:45:23.767+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:45:23.767+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:45:23.786+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:45:23.786+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:45:23.806+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2025-08-31T18:46:16.390+0000] {processor.py:186} INFO - Started process (PID=7635) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:46:16.393+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:46:16.396+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:46:16.396+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:46:16.407+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:46:16.426+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:46:16.426+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:46:16.449+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:46:16.448+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:46:16.469+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2025-08-31T18:47:09.373+0000] {processor.py:186} INFO - Started process (PID=7775) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:09.374+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:47:09.376+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:09.376+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:09.387+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:09.405+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:09.404+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:47:09.425+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:09.425+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:47:09.455+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2025-08-31T18:47:58.929+0000] {processor.py:186} INFO - Started process (PID=7831) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:58.930+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:47:58.932+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:58.932+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:58.941+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:47:58.956+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:58.956+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:47:58.974+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:47:58.973+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:47:58.995+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds
+[2025-08-31T18:48:49.244+0000] {processor.py:186} INFO - Started process (PID=7886) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:48:49.245+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:48:49.247+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:48:49.246+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:48:49.255+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:48:49.270+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:48:49.270+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:48:49.288+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:48:49.288+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:48:49.312+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2025-08-31T18:49:40.492+0000] {processor.py:186} INFO - Started process (PID=7950) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:49:40.494+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:49:40.496+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:49:40.495+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:49:40.510+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:49:40.534+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:49:40.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:49:40.565+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:49:40.564+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:49:40.594+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2025-08-31T18:50:33.113+0000] {processor.py:186} INFO - Started process (PID=8062) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:50:33.114+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:50:33.117+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:50:33.117+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:50:33.128+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:50:33.148+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:50:33.148+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:50:33.168+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:50:33.167+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:50:33.189+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.084 seconds
+[2025-08-31T18:51:24.812+0000] {processor.py:186} INFO - Started process (PID=8144) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:51:24.814+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:51:24.816+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:51:24.815+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:51:24.825+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:51:24.841+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:51:24.841+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:51:24.860+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:51:24.860+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:51:24.880+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2025-08-31T18:52:14.636+0000] {processor.py:186} INFO - Started process (PID=8217) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:52:14.637+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:52:14.640+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:52:14.639+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:52:14.649+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:52:14.665+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:52:14.664+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:52:14.683+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:52:14.683+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:52:14.706+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2025-08-31T18:53:03.195+0000] {processor.py:186} INFO - Started process (PID=8274) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:03.197+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:53:03.199+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:03.199+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:03.210+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:03.229+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:03.229+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:53:03.250+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:03.250+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:53:03.277+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2025-08-31T18:53:53.151+0000] {processor.py:186} INFO - Started process (PID=8468) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:53.152+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:53:53.154+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:53.154+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:53.163+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:53:53.179+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:53.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:53:53.197+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:53:53.197+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:53:53.219+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2025-08-31T18:54:41.294+0000] {processor.py:186} INFO - Started process (PID=8518) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:54:41.295+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:54:41.297+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:54:41.297+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:54:41.305+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:54:41.321+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:54:41.321+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:54:41.340+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:54:41.339+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:54:41.362+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds
+[2025-08-31T18:55:34.436+0000] {processor.py:186} INFO - Started process (PID=8598) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:55:34.437+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:55:34.440+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:55:34.440+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:55:34.449+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:55:34.469+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:55:34.468+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:55:34.493+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:55:34.493+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:55:34.522+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2025-08-31T18:56:28.239+0000] {processor.py:186} INFO - Started process (PID=8667) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:56:28.240+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:56:28.242+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:56:28.241+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:56:28.251+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:56:28.267+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:56:28.266+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:56:28.286+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:56:28.285+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:56:28.310+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2025-08-31T18:57:21.399+0000] {processor.py:186} INFO - Started process (PID=8720) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:57:21.400+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:57:21.402+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:57:21.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:57:21.411+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:57:21.429+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:57:21.429+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:57:21.450+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:57:21.450+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:57:21.481+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.088 seconds
+[2025-08-31T18:58:13.767+0000] {processor.py:186} INFO - Started process (PID=8774) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:58:13.768+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:58:13.771+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:58:13.770+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:58:13.781+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:58:13.799+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:58:13.799+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:58:13.820+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:58:13.820+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:58:13.845+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.085 seconds
+[2025-08-31T18:59:06.313+0000] {processor.py:186} INFO - Started process (PID=8827) to work on /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:59:06.314+0000] {processor.py:914} INFO - Processing file /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-31T18:59:06.316+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:59:06.316+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:59:06.327+0000] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-08-31T18:59:06.345+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:59:06.344+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-31T18:59:06.366+0000] {logging_mixin.py:190} INFO - [2025-08-31T18:59:06.365+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-08-30 00:00:00+00:00, run_after=2025-08-31 00:00:00+00:00
+[2025-08-31T18:59:06.392+0000] {processor.py:208} INFO - Processing /home/krishnaformeera/Sumitomo/datapipeline/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
