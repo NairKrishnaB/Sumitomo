@@ -41,7 +41,7 @@ airflow dags list
 airflow dags trigger datapipeline_dag
 
 
-Improved with more time
+Improvement with more time
 
 1) Add robust error handling for API failures and Implement retries
 2) Write tests cases for each ETL module
