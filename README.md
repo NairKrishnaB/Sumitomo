@@ -44,8 +44,10 @@ airflow dags trigger datapipeline_dag
 Improvements with more time
 
 1) Add robust error handling for API failures and Implement retries
-2) Write tests cases for each ETL module
-3) I can set up this as Github action to perform CICD from Dev --> QA --> Production with approval
-4) Move API URLs, database paths, thresholds, and currency codes to a .env or to scheduling tools environment variable
-5) Implement structured logging for ETL steps and monitoring tools and alerts such as AWS cloudwatch, SNS, Datadog etc 
-6) Add visualization layer on top of transformed data
+2) Use API to call the live exchange rate
+3) Deploy the code base to AWS/Azure
+4) Write tests cases for each ETL module
+5) I can set up this as Github action to perform CICD from Dev --> QA --> Production with approval
+6) Move API URLs, database paths, thresholds, and currency codes to a .env or to scheduling tools environment variable
+7) Implement structured logging for ETL steps and monitoring tools and alerts such as AWS cloudwatch, SNS, Datadog etc 
+8) Add visualization layer on top of transformed data
